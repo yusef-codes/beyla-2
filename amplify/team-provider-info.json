@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-beyla2-dev-173043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::362876718137:role/amplify-beyla2-dev-173043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::362876718137:role/amplify-beyla2-dev-173043-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-beyla2-dev-173043-deployment",
+      "UnauthRoleName": "amplify-beyla2-dev-173043-unauthRole",
+      "StackName": "amplify-beyla2-dev-173043",
+      "StackId": "arn:aws:cloudformation:us-east-1:362876718137:stack/amplify-beyla2-dev-173043/630144c0-23d0-11ec-9fdd-12384bd5a5bb",
+      "AmplifyAppId": "d1w0f6qdv9xcog"
+    },
+    "categories": {
+      "auth": {
+        "beyla260fe4e42": {}
+      }
+    }
+  }
+}
